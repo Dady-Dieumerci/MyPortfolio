@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NO:wght@100..400&family=Playwrite+NZ+Guides&display=swap');
+
+
+@theme {
+  
+     
+     --primary-background: linear-gradient(to top, #100C08, #95122C);
+
+
+}
+html{
+     scroll-behavior: smooth; 
+}
+
+.change-font{
+  font-family: "Playwrite NO", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  
+
+}
